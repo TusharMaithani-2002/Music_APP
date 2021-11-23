@@ -175,6 +175,5 @@ img {
 @media screen and (max-width : 500px ) {
     .music-container{
         width: 80%;
-        height: 60%
     }
 }
